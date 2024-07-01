@@ -24,3 +24,5 @@ git add.gitignore
 ## Установка
 1.**Клонирование репозитория**
 bash
+git clone <repository-url>
+cd <project-directory>
